@@ -28,5 +28,5 @@ php public/index.php diag -v
 
 ### Example output
 
-![Example](../blob/master/docs/example-output.png?raw=true)
+![Example](https://github.com/ministryofjustice/opg-core-health-check/blob/master/docs/example-output.png)
 
