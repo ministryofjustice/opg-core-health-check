@@ -82,10 +82,6 @@ php ./vendor/bin/phpunit
 
 * [Richard Saunders]
 
-ministryofjustice
-
-TODO: Write license
-
 [opg-core-back-end]: https://github.com/ministryofjustice/opg-core-back-end
 [opg-core-front-end]: https://github.com/ministryofjustice/opg-core-front-end
 [opg-core-auth-membrane]: https://github.com/ministryofjustice/opg-core-auth-membrane
