@@ -1,0 +1,10 @@
+<?php
+
+return array(
+
+     'health_check' => array (
+        // Specify the markdown file containing the list of environmental variables to check
+        'env_vars_markdown_uri' => getcwd() . '/docs/EnvironmentalVariables.md',
+     )
+    
+);
