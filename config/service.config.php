@@ -23,7 +23,4 @@ return array(
     'services' => array(
         'FilePregMatcher' => new FilePregMatcher(),
     ),
-    'shared' => array(
-        'FilePregMatcher' => false,
-    ),
 );

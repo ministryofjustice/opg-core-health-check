@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-0": {
-      "HealthCheck\\": "src/"
+      "HealthCheck": "src/"
     },
     "classmap": [
       "./Module.php"
