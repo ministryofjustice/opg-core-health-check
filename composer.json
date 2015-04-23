@@ -17,7 +17,8 @@
     "symfony/http-kernel": "2.6.*"
   },
   "require-dev": {
-    "zendframework/zend-test": "2.*"
+    "zendframework/zend-test": "2.*",
+    "phpunit/phpunit": "4.0.14"
   },
   "autoload": {
     "psr-0": {
