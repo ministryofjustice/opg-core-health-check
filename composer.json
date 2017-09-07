@@ -10,11 +10,14 @@
     "ministryofjustice",
     "opg"
   ],
+  "config": {
+    "sort-packages": true
+  },
   "require": {
     "php": ">=5.4",
     "zendframework/zendframework": "2.*",
     "zendframework/zend-servicemanager": "2.*",
-    "symfony/http-kernel": "2.6.*"
+    "symfony/http-kernel": ">=2.6"
   },
   "require-dev": {
     "zendframework/zend-test": "2.*",
