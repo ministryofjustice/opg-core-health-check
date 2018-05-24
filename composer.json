@@ -4,7 +4,7 @@
   "homepage": "https://github.com/ministryofjustice/opg-core-health-check",
   "minimum-stability": "dev",
   "license": [
-    "ministryofjustice"
+    "MIT"
   ],
   "keywords": [
     "ministryofjustice",
